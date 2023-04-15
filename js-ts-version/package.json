@@ -1,0 +1,19 @@
+{
+  "name": "backend-live-coding-exercise-typescript",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "Tendable",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "dev": "ts-node index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "16",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "node-persist": "^3.1.0"
+  }
+}
